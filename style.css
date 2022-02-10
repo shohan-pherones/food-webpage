@@ -42,3 +42,14 @@ h1{
     background-image: url(./images/bg-one.jpg);
     background-repeat: no-repeat;
 }
+.recipies{
+    color: tomato;
+    text-align: center;
+}
+.pera2{
+    padding-left: 500px;
+    padding-right: 500px;
+    text-align: center;
+    margin-bottom: 200px;
+    color: black;
+}
