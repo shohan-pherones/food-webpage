@@ -5,6 +5,7 @@ body{
 }
 .section-one{
     display: flex;
+    margin-bottom: 200px;
     
 }
 .first-headings{
@@ -19,6 +20,7 @@ h1{
 .girl-one{
     width: 50%;
     margin-top: 20px;
+    margin-left: 200px;
 }
 #first-word{
     color: tomato;
@@ -35,4 +37,8 @@ h1{
 }
 .pera{
     padding-bottom: 100px;
+}
+.sec2{
+    background-image: url(./images/bg-one.jpg);
+    background-repeat: no-repeat;
 }
